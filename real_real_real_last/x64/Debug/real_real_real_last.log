@@ -1,0 +1,23 @@
+﻿  canvas.c
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\canvas.c(135,20): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  jebi.c
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\jebi.c(108,13): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\jebi.c(172,33): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\jebi.c(197,21): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  jjuggumi.c
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\jjuggumi.c(29,11): warning C4133: '초기화 중': 'bool *'과(와) 'PLAYER *' 사이의 형식이 호환되지 않습니다.
+  juldarigi.c
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\juldarigi.c(124,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\juldarigi.c(147,22): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\juldarigi.c(169,22): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  keyin.c
+  mugunghwa.c
+  night.c
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\night.c(43,22): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\night.c(141,12): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\night.c(141,12): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\night.c(141,12): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\sojaeyeong\source\repos\hy2oning\finalproject\real_real_real_last\night.c(141,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+  sample.c
+  코드를 생성하고 있습니다...
+  real_real_real_last.vcxproj -> C:\Users\sojaeyeong\Source\Repos\hy2oning\finalproject\x64\Debug\real_real_real_last.exe
